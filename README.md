@@ -27,3 +27,5 @@ https://www.youtube.com/channel/UCCgy7i_A5yhAEdY86rPOinA
 
 https://www.youtube.com/watch?v=CZwNK6fOqEI&t=37s
 
+NOTE: The original .py file contains print style of "python 2", while most people use python 3 for now. In this fork, I changed the print style to python 3.
+
