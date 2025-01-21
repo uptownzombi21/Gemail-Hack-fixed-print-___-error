@@ -9,7 +9,7 @@
 
 ### git clone https://github.com/uptownzombi21/Gemail-Hack-fixed-print-___-error.git
     
-### cd Gemail-Hack
+### cd Gemail-Hack-fixed-print-___-error
 
 ### chmod +x gemailhack.py
 
